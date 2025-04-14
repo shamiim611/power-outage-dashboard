@@ -53,5 +53,10 @@ Line chart showing which causes contributed most to:
 Power loss
 People affected
 
+What to improve on
+- improve data cleaning skills
+- add trendlines on the line plots
+- pct_change calculations to cater for the different state sizes and population
+
 
 
