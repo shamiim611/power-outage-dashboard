@@ -1,0 +1,31 @@
+body {
+    background-color: #f9f9f9;
+    font-family: "Segoe UI", sans-serif;
+}
+.kpi_card {background-color: #1f2c56;
+       border-radius: 10px;
+        padding: 20px;
+         flex: 1;
+          margin: 10px}
+.kpi_container{
+      display: flex;
+      justify-content :space-between;
+      align-items: center;
+      flex-wrap: wrap;  
+      background-color: #111111;
+      padding: 10px;
+      border-radius: 10px
+  }
+.kpi_title {
+    font-size: 1rem;
+    color: #ffffff;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.kpi_value {
+    font-size: 2rem;
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+}
